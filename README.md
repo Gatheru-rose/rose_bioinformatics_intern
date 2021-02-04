@@ -22,4 +22,4 @@ To stand-out and become competitive in bioinformatics and genomics so that I can
 **Steps to achieve the milestones**
  1. Learn syntax of programming languages.
  2. Learn skills in programming languages such as python, R and Linux from available resources that are useful in genomics and bioinformatics.
- 3. Go through online programms that provide skills on genomic data analysis using bioinformatics tools.
+ 3. Go through online programs that provide skills on genomic data analysis using bioinformatics tools.
