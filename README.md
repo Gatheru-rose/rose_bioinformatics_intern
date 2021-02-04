@@ -20,3 +20,6 @@ To stand-out and become competitive in bioinformatics and genomics so that I can
  3. Advance in my research career by acquiring fellowships and opportunities.
 
 **Steps to achieve the milestones**
+ 1. Learn syntax of programming languages.
+ 2. Learn skills in programming languages such as python, R and Linux from available resources that are useful in genomics and bioinformatics.
+ 3. Go through online programms that provide skills on genomic data analysis using bioinformatics tools.
