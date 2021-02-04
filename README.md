@@ -18,7 +18,7 @@ I am excited to interact and learn from the Bioinformaticians at ICIPE who will 
 
 **Milestone:**  Be conversant with R, python and Linux programming languages that are essential in genome analysis.
  
- Learn [R](https://github.com/kipkurui/Python4Bioinformatics2019https://github.com/kipkurui/Python4Bioinformatics2019)syntax 
+ Learn [R](http://swcarpentry.github.io/r-novice-gapminder/) syntax 
  
  **Milestone:** Ability to analyze and interpret genomic data.
  
