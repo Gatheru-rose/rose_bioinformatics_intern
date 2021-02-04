@@ -9,6 +9,11 @@ My name is Rose Wambui, an MBBU bioinformatician intern at ICIPE. It is thrillin
 
 **Short-term Vision**- To enhance my knowledge in bioinformatics by learning various skills and resources hence standing-out so that I can acquire fellowships for my postgraduate studies.
 
+---
+
+I am excited to interact and learn from the Bioinformaticians at ICIPE who will mould me into to great bioinformatics scientist.
+
+Here is the link to my [roadmap project]
 
 ### **What I need to do**
 
