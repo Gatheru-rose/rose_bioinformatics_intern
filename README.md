@@ -13,7 +13,6 @@ My name is Rose Wambui, an MBBU bioinformatician intern at ICIPE. It is thrillin
 
 I am excited to interact and learn from the Bioinformaticians at ICIPE who will mould me into to great bioinformatics scientist.
 
-Here is the link to my [roadmap project]
 
 ### **What I need to do**
 
