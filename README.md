@@ -14,7 +14,7 @@ To stand-out and become competitive in bioinformatics and genomics so that I can
 
 ### **What I need to do**
 
-*Milestones
+**Milestones**
  1. Be conversant with programming languages that are essential in genome analysis.
  2. Ability to analyze and interpret genomic data.
  3. Advance in my research career by acquiring fellowships and opportunities.
