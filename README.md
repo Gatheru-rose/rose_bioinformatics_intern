@@ -2,7 +2,7 @@
 
 Hello. Welcome to my Bioinformatics Intern Project :smiley:
 
-This repository gives a description of my vision for my Bioinformatics Internship at MBBU based at ICIPE. Additionally, there are steps that will guide me in achieving my short-term and long-term goals in research.
+My name is Rose Wambui, an MBBU bioinformatician intern at ICIPE. It is thrilling to beginning this bioinformatics internship where I shall learn various skills in bioinformatics and genomics and eventually become competitive in genomics, a field with solutions in understanding human diseases.
 
 ### **Vision**
 
