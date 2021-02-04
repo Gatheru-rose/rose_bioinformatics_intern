@@ -6,11 +6,10 @@ My name is Rose Wambui, an MBBU bioinformatician intern at ICIPE. It is thrillin
 
 ### **Vision**
 
-To acquire knowledge and skills on how to use Bioinformatics tools and resources.
+**Long-term Vision**- To become a bioinformatics scientists and contribute in the genomics field by understanding genomic make-up of organisms and their relation to diseases.
 
-### **Mision**
+**Short-term Vision**- To enhance my knowledge in bioinformatics by learning various skills and resources hence standing-out so that I can acquire fellowships for my postgraduate studies.
 
-To stand-out and become competitive in bioinformatics and genomics so that I can advance in my career through fellowships.
 
 ### **What I need to do**
 
