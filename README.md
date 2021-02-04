@@ -4,8 +4,7 @@ Hello. Welcome to my Bioinformatics Intern Project :smiley:
 
 My name is Rose Wambui, an MBBU bioinformatician intern at ICIPE. It is thrilling to beginning this bioinformatics internship where I shall learn various skills in bioinformatics and genomics and eventually become competitive in genomics, a field with solutions in understanding human diseases.
 
-### **Vision**
-
+---
 **Long-term Vision**- To become a bioinformatics scientists and contribute in the genomics field by understanding genomic make-up of organisms and their relation to diseases.
 
 **Short-term Vision**- To enhance my knowledge in bioinformatics by learning various skills and resources hence standing-out so that I can acquire fellowships for my postgraduate studies.
