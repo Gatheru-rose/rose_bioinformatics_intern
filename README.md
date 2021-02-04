@@ -2,7 +2,7 @@
 
 Hello. Welcome to my Bioinformatics Intern Project :smiley:
 
-This repository gives a description of my vision for the Bioinformatics Internship at MBBU based at ICIPE. Additionally, there are steps that will guide me in achieving my short-term and long-term goals in research.
+This repository gives a description of my vision for my Bioinformatics Internship at MBBU based at ICIPE. Additionally, there are steps that will guide me in achieving my short-term and long-term goals in research.
 
 ### **Vision**
 
