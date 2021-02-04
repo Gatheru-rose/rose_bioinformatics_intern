@@ -1,4 +1,4 @@
-# Bioinformatics Intern Project
+# Bioinformatics Intern 
 
 Hello. Welcome to my Bioinformatics Intern Project :smiley:
 
