@@ -16,8 +16,8 @@ I am excited to interact and learn from the Bioinformaticians at ICIPE who will 
 
 ### **What I need to do**
 
-**Milestones**
- 1. Be conversant with programming languages that are essential in genome analysis.
+**Milestone:**  Be conversant with R, python and Linux programming languages that are essential in genome analysis.
+ Learn syntax of [R](
  2. Ability to analyze and interpret genomic data.
  3. Advance in my research career by acquiring fellowships and opportunities.
 
