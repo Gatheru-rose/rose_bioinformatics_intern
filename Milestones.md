@@ -17,7 +17,7 @@
   
   2. Advancing my skills in [bioinformatics](https://training.h3abionet.org/IBT_2017/).
   
-  3. Gaining essential skills in programming languages like [R] necessary for genome data analysis.
+  3. Gaining essential skills in programming languages like [R](https://datacarpentry.org/genomics-r-intro/) necessary for genome data analysis.
  
  **Milestone:** Advance in my research career by acquiring fellowships and opportunities.
 
