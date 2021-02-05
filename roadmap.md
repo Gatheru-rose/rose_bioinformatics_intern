@@ -25,7 +25,7 @@ Here is the link to my [Readme](https://github.com/Gatheru-rose/rose_bioinformat
   
   3. Gaining essential skills in programming languages like [R](https://datacarpentry.org/genomics-r-intro/) necessary for genome data analysis.
   
-  4. Learning how to come up with bioinformatics pipelines for genomic analysis.
+  4. Learning how to come up with bioinformatics pipelines for genome analysis.
  
  **Milestone:** Advance in my research career by acquiring fellowships and opportunities.
   
