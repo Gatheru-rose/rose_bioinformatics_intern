@@ -33,5 +33,5 @@ Here is the link to my [Readme](https://github.com/Gatheru-rose/rose_bioinformat
   
   3. Enhance my knowledge in genomics by reading scientific journals and papers.
 ---
-Feel free to reach me via my [address](gatheruwambui3@gmail.com) or [slack]().
+Feel free to reach me via my email address-gatheruwambui3@gmail.com or slack for further communications.
 
