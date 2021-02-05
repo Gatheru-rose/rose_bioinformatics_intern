@@ -1,8 +1,8 @@
-# Bioinformatics Intern 
+# Bioinformatics Internship 
 
-Hello. Welcome to my Bioinformatics Intern Project :smiley:
+Hello. Welcome to my Bioinformatics Internship repository :smiley:
 
-My name is Rose Wambui, an MBBU bioinformatician intern at ICIPE. It is thrilling to beginning this bioinformatics internship where I shall learn various skills in bioinformatics and genomics and eventually become competitive in genomics, a field with solutions in understanding human diseases.
+My name is Rose Wambui, an MBBU Bioinformatics intern at ICIPE. It is thrilling to beginning this bioinformatics internship where I shall learn various skills in bioinformatics and genomics and eventually become competitive in genomics, a field that am greatly interested in.
 
 ---
 **Long-term Vision**- To become a bioinformatics scientists and contribute in the genomics field by understanding genomic make-up of organisms and their relation to diseases.
@@ -11,20 +11,8 @@ My name is Rose Wambui, an MBBU bioinformatician intern at ICIPE. It is thrillin
 
 ---
 
-I am excited to interact and learn from the Bioinformaticians at ICIPE who will mould me into to great bioinformatics scientist.
+This internship comprises of comprehensive introduction to bioinformatics to aspiring scientists who would like to venture into bioinformatics in one way or the other. There will be engagement in mini-projects in bioinformatics teams, whereby one will use the skills learnt and practice them further. Additionally, journal clubs and meetings will lead to further exposure on presentation skills and interpreting scientific papers.
 
+I am excited to begin this journey, interact and learn from the Bioinformaticians at ICIPE who will mould me into to great bioinformatics scientist.
 
-### **What I need to do**
-
-**Milestone:**  Be conversant with R, python and Linux programming languages that are essential in genome analysis.
- 
- Learn [R](http://swcarpentry.github.io/r-novice-gapminder/) syntax 
- 
- **Milestone:** Ability to analyze and interpret genomic data.
- 
- **Milestone:** Advance in my research career by acquiring fellowships and opportunities.
-
-**Steps to achieve the milestones**
- 1. Learn syntax of programming languages.
- 2. Learn skills in programming languages such as python, R and Linux from available resources that are useful in genomics and bioinformatics.
- 3. Go through online programs that provide skills on genomic data analysis using bioinformatics tools.
+Find a link to my [roadmap]() for this internship.
