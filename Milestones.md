@@ -13,7 +13,9 @@
  
  **Milestone:** Ability to analyze and interpret genomic data using bioinformatic tools.
   
-  1. 
+  1. Enhancing my understanding in [genomics](https://datacarpentry.org/genomics-workshop/) from online resources.
+  
+  2. Advancing my skills in [bioinformatics](
  
  **Milestone:** Advance in my research career by acquiring fellowships and opportunities.
 
