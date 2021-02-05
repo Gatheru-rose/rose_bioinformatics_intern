@@ -15,7 +15,7 @@
   
   1. Enhancing my understanding in [genomics](https://datacarpentry.org/genomics-workshop/) from online resources.
   
-  2. Advancing my skills in [bioinformatics](
+  2. Advancing my skills in [bioinformatics](https://training.h3abionet.org/IBT_2017/).
  
  **Milestone:** Advance in my research career by acquiring fellowships and opportunities.
 
