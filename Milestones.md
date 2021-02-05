@@ -2,6 +2,7 @@
 
 ## **What needs to be done**
 
+---
 **Milestone:**  Be conversant with R, python and Linux programming languages that are essential in genome analysis.
  
   1. Learn [R](http://swcarpentry.github.io/r-novice-gapminder/) syntax.
@@ -10,7 +11,9 @@
  
   3. Practice and learn [linux](http://swcarpentry.github.io/shell-novice/) commandline.
  
- **Milestone:** Ability to analyze and interpret genomic data.
+ **Milestone:** Ability to analyze and interpret genomic data using bioinformatic tools.
+  
+  1. 
  
  **Milestone:** Advance in my research career by acquiring fellowships and opportunities.
 
