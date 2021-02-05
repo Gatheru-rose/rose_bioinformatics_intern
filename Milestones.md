@@ -4,7 +4,7 @@ Hello there :smiley:
  
 Welcome to my Roadmap for my bioinformatics internship at ICIPE. It entails my milestones for this internship as well as a general milestone which will all help me  to attain my short-term and long-term visions of being a bioinformatics scientist.
 
-Here is the link to my [Readme]() repository so as to know more about me and the internship.
+Here is the link to my [Readme](https://github.com/Gatheru-rose/rose_bioinformatics_intern/blob/main/README.md) repository so as to know more about me and the internship.
 
 ## **What needs to be done**
 
