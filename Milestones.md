@@ -26,9 +26,12 @@ Here is the link to my [Readme](https://github.com/Gatheru-rose/rose_bioinformat
   3. Gaining essential skills in programming languages like [R](https://datacarpentry.org/genomics-r-intro/) necessary for genome data analysis.
  
  **Milestone:** Advance in my research career by acquiring fellowships and opportunities.
+  
+  1. Engage and participate in different workshops and seminars related to genomics research.
+  
+  2. Interact with different scientists especially bioinformatics scientists so as to get mentorship and learn from them.
+  
+  3. Enhance my knowledge in genomics by reading scientific journals and papers.
+---
 
-**Steps to achieve the milestones**
- 1. Learn syntax of programming languages.
- 2. Learn skills in programming languages such as python, R and Linux from available resources that are useful in genomics and bioinformatics.
- 3. Go through online programs that provide skills on genomic data analysis using bioinformatics tools.
 
