@@ -11,7 +11,7 @@ My name is Rose Wambui, an MBBU Bioinformatics intern at ICIPE. It is thrilling 
 
 ---
 
-This internship comprises of comprehensive introduction to bioinformatics to aspiring scientists who would like to venture into bioinformatics in one way or the other. There will be engagement in mini-projects in bioinformatics teams, whereby one will use the skills learnt and practice them further. Additionally, journal clubs and meetings will lead to further exposure on presentation skills and interpreting scientific papers.
+This internship comprises of comprehensive introduction to bioinformatics to aspiring scientists who would like to venture into bioinformatics in one way or the other. The internship will also engage one in mini-projects under different bioinformatics teams where one will learn and practice skills. Additionally, journal clubs and meetings will lead to further exposure on presentation skills and interpreting scientific papers.
 
 I am excited to begin this journey, interact and learn from the Bioinformaticians at ICIPE who will mould me into to great bioinformatics scientist.
 
