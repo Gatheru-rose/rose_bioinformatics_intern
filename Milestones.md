@@ -6,7 +6,7 @@
  
  Learn [R](http://swcarpentry.github.io/r-novice-gapminder/) syntax 
  
- Learn [python](
+ Learn [python](https://github.com/kipkurui/Python4Bioinformatics2019) syntax
  
  **Milestone:** Ability to analyze and interpret genomic data.
  
