@@ -15,4 +15,4 @@ This internship comprises of comprehensive introduction to bioinformatics to asp
 
 I am excited to begin this journey, interact and learn from the Bioinformaticians at ICIPE who will mould me into to great bioinformatics scientist.
 
-Find a link to my [roadmap]() for this internship.
+Find a link to my [roadmap](https://github.com/Gatheru-rose/rose_bioinformatics_intern/blob/main/roadmap.md) for this internship.
