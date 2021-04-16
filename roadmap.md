@@ -13,7 +13,7 @@ Here is the link to my [Readme](https://github.com/Gatheru-rose/rose_bioinformat
  
   - [ ] Learn [R](http://swcarpentry.github.io/r-novice-gapminder/) syntax.
  
-  - [ ] Learn [python](https://github.com/kipkurui/Python4Bioinformatics2019) syntax.
+  - [x] Learn [python](https://github.com/kipkurui/Python4Bioinformatics2019) syntax.
  
   - [x] Practice and learn [linux](http://swcarpentry.github.io/shell-novice/) commandline.
  
@@ -26,6 +26,8 @@ Here is the link to my [Readme](https://github.com/Gatheru-rose/rose_bioinformat
   - [ ] Gaining essential skills in programming languages like [R](https://datacarpentry.org/genomics-r-intro/) necessary for genome data analysis.
   
   - [x] Learning how to come up with bioinformatics pipelines for genome analysis.
+  - [x] Participate in group projects.
+  - [ ] Mini-project.
  
  **Milestone:** Advance in my research career by acquiring fellowships and opportunities.
   
