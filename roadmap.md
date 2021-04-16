@@ -11,11 +11,11 @@ Here is the link to my [Readme](https://github.com/Gatheru-rose/rose_bioinformat
 ---
 **Milestone:**  Be conversant with R, python and Linux programming languages that are essential in genome analysis.
  
-  1. Learn [R](http://swcarpentry.github.io/r-novice-gapminder/) syntax.
+  -[] Learn [R](http://swcarpentry.github.io/r-novice-gapminder/) syntax.
  
-  2. Learn [python](https://github.com/kipkurui/Python4Bioinformatics2019) syntax.
+  -[] Learn [python](https://github.com/kipkurui/Python4Bioinformatics2019) syntax.
  
-  3. Practice and learn [linux](http://swcarpentry.github.io/shell-novice/) commandline.
+  -[] Practice and learn [linux](http://swcarpentry.github.io/shell-novice/) commandline.
  
  **Milestone:** Ability to analyze and interpret genomic data using bioinformatic tools.
   
