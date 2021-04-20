@@ -53,7 +53,7 @@ workflow{
     CLUSTER_OTUS(DEREPLICATION.out.uniqs_fasta,FILTER.out.filtered_fasta)
 
     // Qiime2 artefact
-    // step 1
+    // step1
     OTU_CONVERSION(CLUSTER_OTUS.out.ASVs_fasta)
     // step 2
     MAFFT_ALIGNMENT_PLUS(OTU_CONVERSION.out.otus_qza)
