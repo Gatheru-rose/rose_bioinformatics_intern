@@ -132,7 +132,6 @@ I have gained invaluable hands-on experience from this internship that could hav
    - [ ] Mini-project.
    - [ ] Revisit Git and Github from the commandline.
    - [ ] Snakemake workflow management system.
-   - [ ] Online Machine Learning course.
 
 
 
