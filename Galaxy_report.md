@@ -6,7 +6,7 @@
 
 [Galaxy](https://galaxyproject.org/community/) is an online platform developed by a community of scientists. This platform is distributed in different regions by presence of [servers](https://galaxyproject.org/usegalaxy/). These servers are accessible virtually and contain various tools which aid in the analysis of different types of data. From galaxy one can access training materials from the galaxy training network (GTN) [page](https://training.galaxyproject.org/). These page consists  of a wide range of tutorials on how to use the inbuilt tools in galaxy to carry out data analysis. 
 
-From 15th to 19th February 2021, I participated virtually in the GTN Smörgåsbord: [A Global Course](https://training.galaxyproject.org/training-material/smorgasbord.html). This workshop comprised of different GTN tutorials exposing one to a wide range topics in the course of the week. I used [Galaxy Australian server](https://usegalaxy.org.au/) in following through the hands-on tutorials. 
+From 15th to 19th February 2021, I participated virtually in the GTN Smörgåsbord: [A Global Course](https://training.galaxyproject.org/training-material/smorgasbord.html). This workshop comprised of different GTN tutorials exposing one to a wide range topics in the course of the week. I used the [Galaxy Australian server](https://usegalaxy.org.au/) in following through the hands-on tutorials. 
 
 ---
 
