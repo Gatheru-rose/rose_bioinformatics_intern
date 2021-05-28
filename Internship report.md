@@ -1,15 +1,15 @@
-# Internship Progress Report
+# Internship Report
 
 ---
 ## Introduction
 
-As from 3rd February 2021, I began my bioinformatics Internship at [icipe](http://www.icipe.org/) in Nairobi,Kenya. This internship opportunity is laying a strong foundation in my genomics and bioinformatics research career as I am in my early stages.
+As from 3rd February 2021, I began my bioinformatics Internship at [icipe](http://www.icipe.org/) in Nairobi,Kenya. This internship opportunity has laid a strong foundation in my genomics and bioinformatics research career in my early stages.
 
-At the beginning of the internship period I developed my learning [roadmap](https://github.com/Gatheru-rose/rose_bioinformatics_intern/blob/main/roadmap.md) and the goals I wished to achieve from the internship.
+At the beginning of the internship period I developed a learning [roadmap](https://github.com/Gatheru-rose/rose_bioinformatics_intern/blob/main/roadmap.md) and the goals I wished to achieve from the internship.
 
 Here is a link to my internship project [plan](https://github.com/Gatheru-rose/rose_bioinformatics_intern/projects/1) that I keep on updating depending on the skills gaps and knowledge yet to cover. Additionally, here is the link to my internship repository [readme](https://github.com/Gatheru-rose/rose_bioinformatics_intern) document.
 
-I am happy to document my progress since I started this internship and what else am planning to do for the remaining time. This progress is respective of my milestones in the [roadmap](https://github.com/Gatheru-rose/rose_bioinformatics_intern/blob/main/roadmap.md) file as well as my [project plan](https://github.com/Gatheru-rose/rose_bioinformatics_intern/projects/1).
+I am happy to document my progress here. This progress is respective of my milestones in the [roadmap](https://github.com/Gatheru-rose/rose_bioinformatics_intern/blob/main/roadmap.md) file as well as my [project plan](https://github.com/Gatheru-rose/rose_bioinformatics_intern/projects/1).
 
 ---
 ## Objectives and Expectations.
@@ -23,7 +23,7 @@ I am happy to document my progress since I started this internship and what else
 ## Skills.
 ---
 
-### 1. Programming languages.
+### 1. Scripting and Programming.
 
 - **Bash programming language** - In the first month of the internship, I was introduced to bash programming language. I didn't have prior skills and expertise in this language, however from my trainers and the vast amount of resources at my disposal I am can confidently say that I am now quite conversant in bash programming langauge. 
 
@@ -61,7 +61,7 @@ I am happy to document my progress since I started this internship and what else
 
 ### 2.  Data Management and Reproducibility.
 
-One of the best practices of bioinformatics research is to ensure data management and reproducibility. This can be achieved through various **collaborative and version control tools**. 
+One of the best practices in bioinformatics research is data management and reproducibility. This can be achieved through various **collaborative and version control tools**. 
 
 During the first week of the internship program, I was introduced to **slack** for communication, and **git and github** for version control and creation of repositories that are easily accessible. Here is my [slack account](https://app.slack.com/client/T01AW0MEK6G/D01LLGSBMNJ) and [github handle](https://github.com/Gatheru-rose) which contains my repositories for this internship, exercises that I have done and some projects that I participated in. Github was used in the 16S accreditation process where the participants could access the 16S repository which had documentations of the project, scripts, results and the final report. Thus it was easier to follow up, update and keep up with the project in real-time. 
 
@@ -71,20 +71,20 @@ Other than in using slack, git and github, scientific computing notebooks are av
 
 There are several bioinformatics tools that are used in the analysis and parsing of Next-Generation Sequenced data. These tools are developed using different algorithms to carry out different tasks. Before any downstream analysis of NGS data, some crucial preprocessing steps are neccesary. Below are some of the tools that I have learnt which are useful in whole genome data analysis.
 
-   - Quality control checking of reads is normally the first step. **FastQc** tool is used in reporting the quality of the reads and informs one of any subsequent trimming steps needed to be done on the reads.
-   - NGS reads are trimmed according to their; Phred quality score, false basecalls like N's, adapter and primer sequences, short sequence reads and those with low mean quality scores. **Trimmomatic**, and **Cutadapt** tools are used in quality correction of the reads.
-   - **Multiqc** tools is useful in the aggregation of outputs from different tools for easier comparison of the results from different reads.
-   - **[Usearch](https://www.drive5.com/usearch/)** and **[Vsearch](https://github.com/torognes/vsearch)** tool can be used for downstream analysis of the reads after quality correction. Both tools have many similar commands that were developed from different algorithms and perform various tasks. 
+   - Quality checking of reads is normally the first step. `FastQc` tool is used in reporting the quality of the reads and informs one of any subsequent trimming steps needed to be done on the reads.
+   - NGS reads are trimmed according to their; Phred quality score, false basecalls like N's, adapter and primer sequences, short sequence reads and those with low mean quality scores. `Trimmomatic`, and `Cutadapt` tools are used in quality correction of the reads.
+   - `Multiqc` tool is useful in the aggregation of outputs from different tools for easier comparison of the results from different reads.
+   - `[Usearch]`(https://www.drive5.com/usearch/) and `[Vsearch]`(https://github.com/torognes/vsearch) tool can be used for downstream analysis of the reads after quality correction. Both tools have similar commands that were developed from different algorithms and perform various tasks. 
    
-      Using *-merge* command from either tools, paired-end reads whose quality has been checked and corrected can be merged and appended to one file. However,*Vsearch --merge* command can only process a pair of paired-end reads at a time thus its alternative *Usearch-merge* command comes in handy when merging numerous paired-end reads. 
+      Using `-merge` command from either tools, paired-end reads whose quality has been checked and corrected can be merged and appended to one file. However,`Vsearch --merge` command can only process a pair of paired-end reads at a time thus its alternative `Usearch-merge` command comes in handy when merging numerous paired-end reads. 
       
-      Both commands have a *-filter* command which strips off forward and reverse primers, and does further quality correction. Additionally, both tools have commands that can orient reads according to the reference database available (i.e the *-orient* command). 
+      Both commands have a `-filter` command which strips off forward and reverse primers, and does further quality correction. Additionally, both tools have commands that can orient reads according to the reference database available (i.e the `-orient` command). 
       
-      Dereplication is performed by *-derep* command from both tools to find the unique reads only among all available reads.
+      Dereplication is performed by `-derep` command from both tools to find the unique reads only among all available reads.
       
-      Chimeric sequences can be detected and filtered using the Uchime algorithm in either *-uchime-ref* command using a reference database, or through *-uchime2-denovo3*, or in *-unoise3* command that performs denoising as well on the amplicon reads.
+      Chimeric sequences can be detected and filtered using the Uchime algorithm in either `-uchime-ref` command using a reference database, or through `-uchime2-denovo3`, or in `-unoise3` command that performs denoising as well on the amplicon reads.
       
-      Otus(Operational Taxonomic units) are clustered from the reads with the clustering command from both tools that is *-cluster_otus* command at 97% similarity threshold. However, true biological sequences known as **Amplicon Sequence variants** (ASVs) are the most preferred compared to Otus that were clustered at 97% similarity threshold that is becoming obsolete. Hence it is better to use the *-unoise* command available from both tools to perform denoising, remove chimeric sequences and output ASVs instead of Otus.
+      Otus(Operational Taxonomic units) are clustered from the reads with the clustering command from both tools that is `-cluster_otus` command at 97% similarity threshold. However, true biological sequences known as **Amplicon Sequence variants** (ASVs) are the most preferred compared to Otus that were clustered at 97% similarity threshold that is becoming obsolete. Hence it is better to use the *-unoise* command available from both tools to perform denoising, remove chimeric sequences and output ASVs instead of Otus.
       
       **Limitation of Usearch and Vsearch tools.**
       
