@@ -88,27 +88,31 @@ There are several bioinformatics tools that are used in the analysis and parsing
       
       **Limitation of Usearch and Vsearch tools.**
       
-      - One disadvantage of th Usearch tool to Vsearch is that the open source 32bit Usearch tool can't process a large dataset thus the development of an alternative tool, Vsearch, which is fully open source and has a 64-bit design that can handle large datasets.
-      - Vsearch *-merge* command can only process a pair of paired-end reads at a time unlike Usearch *-merge* command.
-      - Some Vsearch commands are not compatible with downstream analysis using other tools like Qiime2 for example the *Vsearch -cluster_otus* command. 
+      - One disadvantage of `Usearch` tool to `Vsearch` is that the open source 32bit `Usearch` tool can't process a large dataset thus the development of an alternative tool, `Vsearch`, which is fully open source and has a 64-bit design that can handle large datasets.
+      - `Vsearch -merge` command can only process a pair of paired-end reads at a time unlike `Usearch -merge` command.
+      - Some `Vsearch` commands are not compatible with downstream analysis using other tools like `Qiime2` for example the `Vsearch -cluster_otus` command. 
       
-   - **[Qiime2](https://qiime2.org/)** tool is a microbiome analysis package that enables researchers to start an analysis with raw DNA sequence data and finish with publication-quality figures and statistical results. It has different [plugins](https://docs.qiime2.org/2021.2/plugins/available/) for different tasks from Quality control to exploring community diversity and visualizing the results.
+   - **[Qiime2](https://qiime2.org/)** tool is a microbiome analysis package that enables researchers to start an analysis with raw DNA sequence data and finish with publication-quality figures and statistical results. It has different [plugins](https://docs.qiime2.org/2021.2/plugins/available/) for different tasks from quality control to exploring community diversity and visualizing the results.
   
-   - **[DADA2](https://benjjneb.github.io/dada2/index.html)** an open-source software package is used form microbiome analysis it has different commands for microbiome analysis and performs high resolution sample inference from Illumina amplicon data. DADA2 is better than Qiime2 in microbial community clustering since DADA2 uses a denoising algorithm and outputs ASVs unlike Qiime2 which outputs Otus. 
+   - **[DADA2](https://benjjneb.github.io/dada2/index.html)** an open-source software package is used form microbiome analysis it has different commands for microbiome analysis and performs high resolution sample inference from Illumina amplicon data. `DADA2` is better than `Qiime2` in microbial community clustering since `DADA2` uses a denoising algorithm and outputs ASVs unlike `Qiime2` which outputs Otus. 
    
-   I used these tools when participating in the 16S accreditation process and what I learnt from the project about bioinformatics tools and resources is that they are can be intergrated into pipelines and the choice of the tool depends on; nature and size of your data, computing resources as well as time. Moreover, before using a specific tool one needs to learn and understand well the working of the tool and it's commands.
+   I used these tools in participating in the 16S accreditation process and I learnt that bioinformatics tools and resources can be intergrated into pipelines and the choice of the tool depends on; nature and size of your data, computing resources as well as time. Moreover, before using a specific tool one needs to understand the working of the tool and it's commands.
    
    I also used some bioinformatics tools during the GTN workshop in analysis of whole genome data. Here is my [galaxy report](https://github.com/Gatheru-rose/rose_bioinformatics_intern/blob/main/Galaxy_report.md) from the workshop I attended describing the tools I used and some of my workflows.
    
 ### 4. Working on the HPC.
 
-Most of the tasks done on the 16S accrediation project were run on icipe's HPC. High Performance Computing enables processing of large datasets at a faster speed that would have otherwise impaired the functioning of a PC when run locally. I was able to navigate around the different nodes of icipe's HPC in running some tasks. Task completion was fast and other tasks could also be done on the PC simultaneously. Bash programming was useful in navigating around the HPC terminal and in the process I learnt other commands as well.
+Most of the tasks done during the 16S accrediation project were run on icipe's HPC. High Performance Computing enables processing of large datasets at a faster speed that would have otherwise impaired the functioning of a local PC when run locally. I was able to navigate around the different nodes of icipe's HPC in running some tasks. Task completion was fast and other tasks could also be done on the PC simultaneously. Bash programming was useful in navigating around the HPC terminal and in the process I learnt other commands as well.
 
 ### 5. Workflow management system languages.
 
 Workflow management system languages such as [Nextflow](https://www.nextflow.io/docs/latest/index.html) and [Snakemake](https://snakemake.readthedocs.io/en/stable/) allow the automation and seammless execution of bioinformatics pipelines. This is essential in ensuring reproducibility of workflows, projects and even their scalability. 
 
 I have learnt the basic concepts of nextflow scripting from creating a nextflow [main.nf](https://github.com/Gatheru-rose/rose_bioinformatics_intern/blob/main/main.nf) file script, a nextflow [config file](https://github.com/Gatheru-rose/rose_bioinformatics_intern/blob/main/nextflow.config) and the nextflow scripts containing processes that direct relevant inputs and outputs through all the processes. I collaboratively worked with my fellow team mates in converting a microbiome analysis pipeline using different tools into a nextflow workflow language. Here are some of my [nextflow scripts](https://github.com/Gatheru-rose/rose_bioinformatics_intern/tree/main/modules). 
+
+### 6. Projects.
+
+I was actively engaged in group projects during my internship period including 16SrRNA data analysis, and development of a variant discovery pipeline. Through these projects I gained fundamental analysis skills of NGS data from preprocessing steps to coming up with relevant biological inferences from the data. Besides, gaining bioinformatics skills I also used collaborative tools in communication and improved my skills set in report writing and presentation.
 
 ---
 
@@ -118,20 +122,17 @@ I have learnt the basic concepts of nextflow scripting from creating a nextflow 
 2. WiDS African conference. - On 8th March 2021, I attended Women in Data Science African conference and received insights from different succesful women in Data science field. This was an eye-opening conference to get advice from great speakers such as [Mamokgethi Phakeng](https://mamokgethi.com/) as I am in my early stage of my career in bioinformatics. From this conference I learnt of [BCWB](https://www.blackwomencompbio.org/) network and joined.
 3. Bioinformatics for Biologists- I enrolled in the [Bioinformatics for Biologists](https://www.futurelearn.com/courses/linux-for-bioinformatics) short online course from Futurelearn web platform. This course further aided my understanding of different commands in bash scripting and it acted as a polish to what I had already learnt earlier on. The last week of the course, I gained skills on data visualization using ggplot2 an R package.
 4. Journal club - I participated in journal club discussions held once in 2 weeks and have so far gained knowledge and insights from different topics on bioinformatics, High-Resolution Melting-PCR analysis, and general computer science. I also presented on 25th March 2021, and here is the [paper](https://jcm.asm.org/content/53/6/1908) I presented and its [slides](https://docs.google.com/presentation/d/1j11cCrxxwYnv98eQpwof5FhCqEJ1WOV_iwl7Rkv6JTk/edit#slide=id.p7). I also gained presentation skills through it. 
+5. Scientific Communication Workshop - I attended the Scientific communication workshop organized by H3Abionet and gained skills on writing elevator's pitch, manuscripts and presenting.
 
 ---
 
 ## Conclusion.
 
-Data Science in particular bioinformatics is a significant field in interpreting the increasing amount of biological data from sequencing platforms. Through it there will be an understanding of genome data and aid researchers in coming up with relevant solutions to different problems at the genome level. All this is achievable through the bioinformatics tools,and resources available. To be good in bioinformatics, one should have a good understanding of the different tools, programming languages relevant in genome analysis and how to intergrate them together. One of the best practices in a bioinformatics research career is data management and reproducibilty. Hence open science and collaboration is important for this thus the availabity of numerous collaborative and version-control tools.
+Data Science in particular bioinformatics is a significant field in interpreting the increasing amount of biological data from sequencing platforms. Through it there will be an understanding of genome data and aid researchers in coming up with relevant solutions to different problems at the genome level. All this is achievable through available bioinformatics tools and resources. To be good in bioinformatics, one should have a good understanding of the different tools, programming languages relevant in genome analysis and how to intergrate them together. One of the best practices in a bioinformatics research career is data management and reproducibilty. Hence open science and collaboration is important for this thus the availabity of numerous collaborative and version-control tools.
 
-I have gained invaluable hands-on experience from this internship that could have only be learnt here through projects and sessions I participated in. Through this internship I have developed and refined my skills in bioinformatics, networked with some of the best bioinformaticians and received mentorship from them. From the journal club I also gained more confidence in presentation and learnt necessary preparation steps for interviews.
+I have gained invaluable hands-on experience from this internship that could have only be learnt here through projects and sessions I participated in. Through this internship I have developed and refined my skills in bioinformatics, networked with some of the best bioinformaticians and received mentorship from them. 
 
 ---
-   ### Pending Tasks
-   - [ ] Mini-project.
-   - [ ] Revisit Git and Github from the commandline.
-   - [ ] Snakemake workflow management system.
 
 
 
